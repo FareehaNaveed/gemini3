@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CipherSync by Secure Every Byte",
+  "description": "Elite AI-powered security suite for SAST, CSPM, OSINT, and Dark Web monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
